@@ -1,13 +1,13 @@
 # kiana-guajian
-卡琪娜网页挂件
-=== Kiana Handing Tool ===
+卡琪娜网页挂件Kiana Handing Tool
+===
 
-Contributors: afterimagex
-Donate link: https://www.afterimage.top/
-Tags: 崩坏学园, 崩坏学园2, bhxy, bhxy2, 琪亚娜, Kiana, 小挂件
-Requires at least: 1.0
-Tested up to: 1.0
-Stable tag: trunk
+Contributors: afterimagex<br>
+Donate link: https://www.afterimage.top/<br>
+Tags: 崩坏学园, 崩坏学园2, bhxy, bhxy2, 琪亚娜, Kiana, 小挂件<br>
+Requires at least: 1.0<br>
+Tested up to: 1.0<br>
+Stable tag: trunk<br>
 
 == Installation ==
 
@@ -29,6 +29,6 @@ Stable tag: trunk
 
 == Changelog ==
 
-2016-05-15：添加了一些配音、修改部分代码
-= 1.0 =
-*第一个版本
+2016-05-15：添加了一些配音、修改部分代码<br>
+= 1.0 =<br>
+*第一个版本<br>
